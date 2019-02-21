@@ -1,0 +1,77 @@
+/*Cards responsive*/
+
+/*desktop device*/
+@media screen and (max-width: 1250px) {
+
+	.soins {
+		width: 70vw;
+		height: auto;
+		background-color: #d2fcfc;
+		border-radius: 5px;
+		box-shadow: -2px 2px 2px rgba(85,85,85,0.4) ,2px 2px 2px rgba(85,85,85,0.4);
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: auto;
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.card {
+		width: 65%;
+		margin-bottom: 20px;
+		box-shadow: 1px 1px 1px rgba(15,15,15,0);
+	}
+
+	.separated2 {
+		height: 1px;
+	}
+
+	.cardHoraire {
+		width: 70vw;
+	}
+
+} 
+
+/*smartphone device*/
+@media screen and (max-device-width: 500px) {
+
+	body{
+		padding-left: 0px;
+		width: 100vw;
+	}
+
+	#slider {
+		display: none;
+	}
+
+	.navBar {
+		position: fixed;
+		margin-left: 0px;
+		margin-top: 0px;
+		display: flex;
+		flex-direction: row;
+		align-items: space-between;
+		width: 100%;
+		height: 80px;
+		padding: 5px;
+	}
+
+	.icons {
+		height: 80px;
+		width: 80%;
+		display: flex;
+		flex-direction: row;
+	}
+
+	#logo {
+		width: 20%;
+		height: 80px;
+		padding: 0px;
+	}
+
+	#logo img {
+		width: 70px;
+	}
+
+}
