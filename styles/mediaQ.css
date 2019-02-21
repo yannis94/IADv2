@@ -52,7 +52,7 @@
 		height: 280px;
 		background-image: url('../images/oscultation.jpg');
 		background-size: cover;
-		filter: blur(1.5px) grayscale(30%);
+		filter: blur(0.8px) grayscale(30%);
 		background-position: 90% 25%;
 		margin-top: 0px;
 		padding-top: 40%;
