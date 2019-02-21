@@ -74,4 +74,16 @@
 		width: 70px;
 	}
 
+	.card {
+		height: auto;
+	}
+
+	.fond {
+		height: 100px;
+	}
+
+	.fondHoraire {
+		height: 160px;
+	}
+
 }
