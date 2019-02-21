@@ -79,6 +79,10 @@
 		height: auto;
 	}
 
+	.card h2 {
+		text-align: center;
+	}
+
 	.fond {
 		height: 100px;
 	}
@@ -128,6 +132,14 @@
 	#r1c7 {
 		grid-column: 1 / span 1;
 		grid-row: 7 / span 1;
+	}
+
+	.contacts {
+		display: flex;
+		flex-direction: column;
+		height: auto;
+		margin-top: 25px;
+		text-align: center;
 	}
 
 }
