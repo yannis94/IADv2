@@ -46,9 +46,9 @@
 	}
 
 	.navBar {
-		position: fixed;
-		margin-left: 0px;
-		margin-top: 0px;
+		position: sticky;
+		left: 0px;
+		top: 0px;
 		display: flex;
 		flex-direction: row;
 		align-items: space-between;
