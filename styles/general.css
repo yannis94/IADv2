@@ -14,6 +14,11 @@ p {
 	font-family: 'Abel', sans-serif;
 }
 
+h3 {
+	font-family: 'Abel', sans-serif;
+	font-size: 1.5em;
+}
+
 #maps {
 	width: 100%;
 	height: 20%;

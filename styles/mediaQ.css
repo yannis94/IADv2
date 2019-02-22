@@ -4,7 +4,7 @@
 @media screen and (max-width: 1250px) {
 
 	.soins {
-		width: 70vw;
+		width: 80vw;
 		height: auto;
 		background-color: #d2fcfc;
 		border-radius: 5px;
@@ -18,7 +18,7 @@
 	}
 
 	.card {
-		width: 65%;
+		width: 80%;
 		margin-bottom: 20px;
 		box-shadow: 1px 1px 1px rgba(15,15,15,0);
 	}
